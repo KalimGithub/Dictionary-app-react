@@ -23,7 +23,7 @@ function App() {
         <Route path='/history' element={<History />}/>
       </Routes>
 
-      <WordsDetailPage/>
+      {/* <WordsDetailPage/> */}
     </div>
   );
 }

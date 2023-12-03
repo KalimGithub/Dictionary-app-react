@@ -1,8 +1,5 @@
 import react from 'react';
 const History = () => {
-
-
-
     return(
         <div className='history'>
             <div>
